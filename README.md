@@ -1,9 +1,14 @@
 # blog-incubator
 git issue blog 
 
-* 调查 cypress 支持全链路数据一致
-https://github.com/essie-chiang/blog-incubator/issues/8
+* 项目全图景
+https://github.com/essie-chiang/blog-incubator/issues/2
 
+* cypress 工具
+https://github.com/essie-chiang/blog-incubator/issues/11
+
+
+--------------------------------
 * golang
 https://github.com/essie-chiang/blog-incubator/issues/7
 
